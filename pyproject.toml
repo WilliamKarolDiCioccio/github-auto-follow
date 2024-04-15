@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "github-auto-follow"
+version = "0.1.0"
+description = ""
+authors = ["Wilielmus <88447902+WilliamKarolDiCioccio@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pygithub = "^2.3.0"
+cryptography = "^42.0.5"
+python-dotenv = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
