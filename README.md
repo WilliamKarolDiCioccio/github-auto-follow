@@ -16,7 +16,7 @@ To use GitHub Auto Follow, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/DiCioccioWilliamKarol/GitHubAutoFollow.git
+    git clone https://github.com/DiCioccioWilliamKarol/github-auto-follow.git
     ```
 
 2. Create an environment file named `.env` in the root directory of the cloned repository.
